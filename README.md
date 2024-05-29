@@ -1,7 +1,7 @@
 # 📌 FOR YOUR GUIDE
 
 
-# 🔷 ADMIN DATABASE
+## 🔷 ADMIN DATABASE
 
 > [!WARNING]
 > ADMIN DATABASE TO HA. 
@@ -15,10 +15,10 @@
 
 * *`info` TABLE* (unfinished)
 
-| **admin_id** | **admin_name** | **admin_email** | **admin_contact** | **admin_birth** | 
-| --- | --- | --- | --- | --- |
-| 202212345 | Jograt | myemail@gmail.com | 09151234567 | CISTM |
-| *null* | *null* | *null* | *null* | *null* |
+| **admin_id** | **admin_name** | **admin_email** | **admin_contact** | **admin_birth** | **admin_college** | **admin_dept** | **admin_bldg** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 001 | Jograt | myemail@gmail.com | 09151234567 | 01-01-1990 | CISTM | CSS | GV |
+| *null* | *null* | *null* | *null* | *null* | *null* | *null* | *null* |
 
 * *`subject` TABLE* (unfinished)
 
@@ -27,7 +27,7 @@
 | 001 | ICC 103 | Intermediate Programming (Lec) |
 | *null* | *null* | *null* |
 
-# 🔷 STUDENT DATABASE
+## 🔷 STUDENT DATABASE
 
 > [!WARNING]
 > STUDENT DATABASE TO HA.
